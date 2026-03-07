@@ -1,3 +1,3 @@
 # sumit--demo
 demo for git repo
-Author == sumit kumar
+Author <br> sumit kumar
